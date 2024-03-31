@@ -170,6 +170,7 @@ body{
     .card__ilustration{
         height: 450px;
         width: 50%;
+        height: auto;
         border-radius: 10px 0 0 10px ;
 
         background-image: url('./images/image-product-desktop.jpg');
